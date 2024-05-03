@@ -1,16 +1,6 @@
 # cm
 
 A new Flutter project.
+## 测试用引导界面
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![cm](https://github.com/282207134/cm/assets/83965106/9aa86e94-4dbf-45a5-b8d7-475efb8d5490)
